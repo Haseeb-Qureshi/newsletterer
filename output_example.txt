@@ -1,0 +1,31 @@
+<h2>Industry</h2>
+<br />
+<a href="https://www.engadget.com/2018/04/23/atlanta-spends-over-2-million-ransomware-recovery/" target="_blank"><u><strong>Atlanta Spends More than $2 million to Recover from Ransomware Attack</strong></u></a><br />
+Affected services are still down.<br />
+<br />
+<a href="https://techcrunch.com/2018/04/17/amazon-launches-a-lite-android-web-browser-app-in-india/" target="_blank"><u><strong>Amazon Launches a &lsquo;Lite&rsquo; Android Web Browser App in India</strong></u></a><br />
+Less than 2MB in size, aimed at emerging markets.<br />
+<br />
+<a href="https://www.ccn.com/spains-bbva-registers-91-million-loan-on-public-ethereum-blockchain/" target="_blank"><u><strong>BBVA Believes It&#39;s First Global Bank to Issue Loan Using Blockchain</strong></u></a><br />
+Spanish bank issued&nbsp;a $91 million corporate loan on two separate blockchains.<br />
+<br />
+<a href="https://arstechnica.com/information-technology/2018/04/suspicious-event-hijacks-amazon-traffic-for-2-hours-steals-cryptocurrency/" target="_blank"><u><strong>BGP Attack Hijacks Amazon Traffic for 2 Hours</strong></u></a><br />
+Almost 1,300 addresses for Amazon Route 53 rerouted for two hours.<br />
+<br />
+<a href="https://www.cnbc.com/2018/04/23/coinbase-suspends-wikileaks-bitcoin-account.html" target="_blank"><u><strong>Cryptocurrency Firm Coinbase Suspends WikiLeaks&#39; Bitcoin Account</strong></u></a><br />
+WikiLeaks calls for a global boycott of Coinbase.<br />
+<br />
+<a href="https://www.npr.org/sections/parallels/2018/04/23/597780405/how-the-tiny-nation-of-georgia-became-a-bitcoin-behemoth" target="_blank"><u><strong>How The Tiny Nation Of Georgia Became A Bitcoin Behemoth</strong></u></a><br />
+Cryptocurrency mining has come to Georgia.<br />
+<br />
+<a href="https://nakedsecurity.sophos.com/2018/04/20/rsa-conference-has-a-leaky-app-again/" target="_blank"><u><strong>RSA Conference App Leaks Data</strong></u></a><br />
+... you&#39;d expect more from a security conference.<br />
+<br />
+<a href="https://ambcrypto.com/robinhood-expands-to-colorado-with-bitcoin-btc-and-ethereum-eth/" target="_blank"><u><strong>Robinhood Expands to Colorado</strong></u></a><br />
+Western CO appealing because of its blockchain friendly legislation.&nbsp;<br />
+<br />
+<a href="https://cointelegraph.com/news/walmart-is-ready-to-use-blockchain-for-its-live-food-business" target="_blank"><u><strong>Walmart Is Ready To Use Blockchain For Its Live Food Business</strong></u></a><br />
+Hopes to shorten the time it takes to track produce from 6 days to 2 seconds.&nbsp;<br />
+<br />
+<a href="https://www.siliconvalley.com/2018/04/27/facebook-got-an-earnings-boost-but-heres-the-fine-print/" target="_blank"><u><strong>Facebook Got an Earnings Boost, but Here&rsquo;s the Fine Print</strong></u></a><br />
+Despite the CA scandal, Facebook had a strong quarter.<br />
