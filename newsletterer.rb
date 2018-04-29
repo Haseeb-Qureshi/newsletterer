@@ -10,7 +10,12 @@ output.push("<h2>#{yaml["title"]}</h2>")
 output.push("<br />")
 
 yaml["links"].each do |link|
-  title = Faraday.get(link["link"]).body.scan(/<title>(.+)<\/title>/)[0][0]
+  begin
+    title = Faraday.get(link["link"]).body.scan(/<title>(.+)<\/title>/)[0][0]
+  rescue => e
+    puts e
+    title = "TITLE NOT FOUND"
+  end
 
   output.push("<a href=\"#{link["link"]}\" target=\"_blank\"><u><strong>#{title}</strong></u></a><br />")
   output.push(link["subtitle"] + "<br />")
